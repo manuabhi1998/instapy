@@ -4,7 +4,7 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # login credentials
-insta_username = 'turya_spirit'  # <- enter username here
+insta_username = 'witchfair'  # <- enter username here
 insta_password = 'Abhimanyu.anuj!1'  # <- enter password here
 
 # get an InstaPy session!
